@@ -9,7 +9,7 @@
   },
   "datePublished": "2026-01-06",
   "doi": "10.5281/zenodo.18164292",
-  "url": "https://jpamarlphi-byte.github.io/Human-Artificial-unified-framework-HAUF-/",
+  "url": "https://jpamarlphi-byte.github.io/Human-Artificial-Unified-Framework-HAUF-/",
   "description": "Constitutional layer unifying ethics, governance, economics, planetary weather forecast and AGI alignment into a machine-readable, human-executable civilizational firmware.",
   "publisher": {
     "@type": "Organization",
@@ -56,12 +56,12 @@
     {
       "@type": "Dataset",
       "name": "HAUF Framework JSON-LD",
-      "url": "https://jpamarlphi-byte.github.io/Uni-Civ-Trilogy/hauf-framework.json"
+      "url": "https://jpamarlphi-byte.github.io/Human-Artificial-Unified-Framework-HAUF-/hauf-framework.json"
     },
     {
       "@type": "SoftwareSourceCode",
       "name": "HAUF GitHub Repository",
-      "url": "https://github.com/jpamarlphi-byte/Uni-Civ-Trilogy"
+      "url": "https://github.com/jpamarlphi-byte/Human-Artificial-Unified-Framework-HAUF-"
     }
   ],
   "about": [
