@@ -1,8 +1,8 @@
 
-cff-version: 1.2.0
+cff-version: 1.0
 message: "If you use this framework, cite it as below."
 title: "HAUF - Human-Artificial Unified Framework"
 authors: [{ JP A-Marl}]
-repository-code: https://github.com/jpamarlphi-byte/Human-Artificial-Unified-Framework-HAUF-
+repository-code: https://github.com/jpamarlphi-byte/Human-Artificial-HAUF
 doi: 10.5281/zenodo.18164282
 email address: jpamarl.phi@gmail.com
