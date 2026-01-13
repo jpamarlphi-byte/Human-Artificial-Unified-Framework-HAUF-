@@ -18,13 +18,21 @@ DOI 10.5281/zenodo.18164292
 
 ---
 
-Document latest updated version - v1.2 13Jan2026
+Document latest updated version - v1.0 13Jan2026
 
 ---
 
 
 # HAUF - Human-Artificial Unified Framework
 
+• What HAUF is: 
+Constitutional layer for human–AI–planetary governance.
+
+• Who it’s for: 
+Policymakers, civilizational architects, AI/AGI labs & stack designers.
+
+• How to use it: 
+As governance and a reference schema for policy.
 
 ---
 
