@@ -29,7 +29,7 @@ Document latest updated version - v1.2 13Jan2026
 ---
 
 
-![HAUF Framework](HAUF_Framework.jpg)
+![Human-Artificial Framework](Human-Artificial_Framework.jpg)
 
 
 ---
@@ -93,10 +93,10 @@ At the foundation of this framework lies this theorem, a groundbreaking mathemat
 #### - Unified Civilization: Humanity’s Last Revolution (Book 2025)
 
 
-![BOOK Cover](BOOK Cover.jpg)
+![BOOK Cover](BOOK_Cover.jpg)
 ![Back-Cover](Back-Cover.jpg)
 
-https://www.amazon.com/dp/B0FGDNM99Z?ref=cm_sw_r_cso_cp_mwn_dp_9TNDD7VZWV5G6P7ERC84&ref_=cm_sw_r_cso_cp_mwn_dp_9TNDD7VZWV5G6P7ERC84&social_share=cm_sw_r_cso_cp_mwn_dp_9TNDD7VZWV5G6P7ERC84&previewDohEventScheduleTesting=C&csmig=1
+https://www.a.co/d/gG1uAxb
 
 This book serves as the manifesto, urging humanity to transcend tribal divisions and embed dignity, rationality, and coherence into institutions. It focus on the leap from tribal identity to civilizational consciousness, peacefully executed over 100 years phased period. This book challenge legacy geopolitical paradigms and advocate for a coherent species-level identity rooted in dignity and diversity. 
 
